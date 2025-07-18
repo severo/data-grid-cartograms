@@ -11,6 +11,11 @@
     },
     {
         "whole": "countries/bo",
+        "parts": "plurinominal_deputy_seats",
+        "name": "2025_elections"
+    },
+    {
+        "whole": "countries/bo",
         "parts": "senator_seats",
         "name": "2025_elections"
     },
