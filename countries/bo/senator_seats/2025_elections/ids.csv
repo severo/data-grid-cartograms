@@ -1,0 +1,37 @@
+id,department,code,department_senator_seat
+01,Chuquisaca,01,01
+02,Chuquisaca,02,02
+03,Chuquisaca,03,03
+04,Chuquisaca,04,04
+05,La Paz,05,01
+06,La Paz,06,02
+07,La Paz,07,03
+08,La Paz,08,04
+09,Cochabamba,09,01
+10,Cochabamba,10,02
+11,Cochabamba,11,03
+12,Cochabamba,12,04
+13,Oruro,13,01
+14,Oruro,14,02
+15,Oruro,15,03
+16,Oruro,16,04
+17,Potosí,17,01
+18,Potosí,18,02
+19,Potosí,19,03
+20,Potosí,20,04
+21,Tarija,21,01
+22,Tarija,22,02
+23,Tarija,23,03
+24,Tarija,24,04
+25,Santa Cruz,25,01
+26,Santa Cruz,26,02
+27,Santa Cruz,27,03
+28,Santa Cruz,28,04
+29,Beni,29,01
+30,Beni,30,02
+31,Beni,31,03
+32,Beni,32,04
+33,Pando,33,01
+34,Pando,34,02
+35,Pando,35,03
+36,Pando,36,04
