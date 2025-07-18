@@ -1,8 +1,8 @@
-id,department,code,department_special_indigenous_deputy_seat
-01,La Paz,01,01
-02,Cochabamba,02,01
-03,Oruro,03,01
-04,Tarija,04,01
-05,Santa Cruz,05,01
-06,Beni,06,01
-07,Pando,07,01
+id,department,department_seat
+e01,La Paz,01
+e02,Cochabamba,01
+e03,Oruro,01
+e04,Tarija,01
+e05,Santa Cruz,01
+e06,Beni,01
+e07,Pando,01

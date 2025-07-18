@@ -1,61 +1,61 @@
-id,department,code,department_plurinominal_deputy_seat
-01,Chuquisaca,01,01
-02,Chuquisaca,02,02
-03,Chuquisaca,03,03
-04,Chuquisaca,04,04
-05,La Paz,05,01
-06,La Paz,06,02
-07,La Paz,07,03
-08,La Paz,08,04
-09,La Paz,09,05
-10,La Paz,10,06
-11,La Paz,11,07
-12,La Paz,12,08
-13,La Paz,13,09
-14,La Paz,14,10
-15,La Paz,15,11
-16,La Paz,16,12
-17,La Paz,17,13
-18,La Paz,18,14
-19,Cochabamba,19,01
-20,Cochabamba,20,02
-21,Cochabamba,21,03
-22,Cochabamba,22,04
-23,Cochabamba,23,05
-24,Cochabamba,24,06
-25,Cochabamba,25,07
-26,Cochabamba,26,08
-27,Cochabamba,27,09
-28,Oruro,28,01
-29,Oruro,29,02
-30,Oruro,30,03
-31,Oruro,31,04
-32,Potosí,32,01
-33,Potosí,33,02
-34,Potosí,34,03
-35,Potosí,35,04
-36,Potosí,36,05
-37,Potosí,37,06
-38,Tarija,38,01
-39,Tarija,39,02
-40,Tarija,40,03
-41,Tarija,41,04
-42,Santa Cruz,42,01
-43,Santa Cruz,43,02
-44,Santa Cruz,44,03
-45,Santa Cruz,45,04
-46,Santa Cruz,46,05
-47,Santa Cruz,47,06
-48,Santa Cruz,48,07
-49,Santa Cruz,49,08
-50,Santa Cruz,50,09
-51,Santa Cruz,51,10
-52,Santa Cruz,52,11
-53,Santa Cruz,53,12
-54,Santa Cruz,54,13
-55,Santa Cruz,55,14
-56,Beni,56,01
-57,Beni,57,02
-58,Beni,58,03
-59,Pando,59,01
-60,Pando,60,02
+id,department,department_seat
+p01,Chuquisaca,01
+p02,Chuquisaca,02
+p03,Chuquisaca,03
+p04,Chuquisaca,04
+p05,La Paz,01
+p06,La Paz,02
+p07,La Paz,03
+p08,La Paz,04
+p09,La Paz,05
+p10,La Paz,06
+p11,La Paz,07
+p12,La Paz,08
+p13,La Paz,09
+p14,La Paz,10
+p15,La Paz,11
+p16,La Paz,12
+p17,La Paz,13
+p18,La Paz,14
+p19,Cochabamba,01
+p20,Cochabamba,02
+p21,Cochabamba,03
+p22,Cochabamba,04
+p23,Cochabamba,05
+p24,Cochabamba,06
+p25,Cochabamba,07
+p26,Cochabamba,08
+p27,Cochabamba,09
+p28,Oruro,01
+p29,Oruro,02
+p30,Oruro,03
+p31,Oruro,04
+p32,Potosí,01
+p33,Potosí,02
+p34,Potosí,03
+p35,Potosí,04
+p36,Potosí,05
+p37,Potosí,06
+p38,Tarija,01
+p39,Tarija,02
+p40,Tarija,03
+p41,Tarija,04
+p42,Santa Cruz,01
+p43,Santa Cruz,02
+p44,Santa Cruz,03
+p45,Santa Cruz,04
+p46,Santa Cruz,05
+p47,Santa Cruz,06
+p48,Santa Cruz,07
+p49,Santa Cruz,08
+p50,Santa Cruz,09
+p51,Santa Cruz,10
+p52,Santa Cruz,11
+p53,Santa Cruz,12
+p54,Santa Cruz,13
+p55,Santa Cruz,14
+p56,Beni,01
+p57,Beni,02
+p58,Beni,03
+p59,Pando,01
+p60,Pando,02

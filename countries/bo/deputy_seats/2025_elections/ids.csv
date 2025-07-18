@@ -1,0 +1,131 @@
+id,department,kind,kind_department_seat
+u01,Chuquisaca,uninominal,01
+u02,Chuquisaca,uninominal,02
+u03,Chuquisaca,uninominal,03
+u04,Chuquisaca,uninominal,04
+u05,Chuquisaca,uninominal,05
+p01,Chuquisaca,plurinominal,01
+p02,Chuquisaca,plurinominal,02
+p03,Chuquisaca,plurinominal,03
+p04,Chuquisaca,plurinominal,04
+e01,La Paz,special_indigenous,01
+u06,La Paz,uninominal,01
+u07,La Paz,uninominal,02
+u08,La Paz,uninominal,03
+u09,La Paz,uninominal,04
+u10,La Paz,uninominal,05
+u11,La Paz,uninominal,06
+u12,La Paz,uninominal,07
+u13,La Paz,uninominal,08
+u14,La Paz,uninominal,09
+u15,La Paz,uninominal,10
+u16,La Paz,uninominal,11
+u17,La Paz,uninominal,12
+u18,La Paz,uninominal,13
+u19,La Paz,uninominal,14
+p05,La Paz,plurinominal,01
+p06,La Paz,plurinominal,02
+p07,La Paz,plurinominal,03
+p08,La Paz,plurinominal,04
+p09,La Paz,plurinominal,05
+p10,La Paz,plurinominal,06
+p11,La Paz,plurinominal,07
+p12,La Paz,plurinominal,08
+p13,La Paz,plurinominal,09
+p14,La Paz,plurinominal,10
+p15,La Paz,plurinominal,11
+p16,La Paz,plurinominal,12
+p17,La Paz,plurinominal,13
+p18,La Paz,plurinominal,14
+e02,Cochabamba,special_indigenous,01
+u20,Cochabamba,uninominal,01
+u21,Cochabamba,uninominal,02
+u22,Cochabamba,uninominal,03
+u23,Cochabamba,uninominal,04
+u24,Cochabamba,uninominal,05
+u25,Cochabamba,uninominal,06
+u26,Cochabamba,uninominal,07
+u27,Cochabamba,uninominal,08
+u28,Cochabamba,uninominal,09
+p19,Cochabamba,plurinominal,01
+p20,Cochabamba,plurinominal,02
+p21,Cochabamba,plurinominal,03
+p22,Cochabamba,plurinominal,04
+p23,Cochabamba,plurinominal,05
+p24,Cochabamba,plurinominal,06
+p25,Cochabamba,plurinominal,07
+p26,Cochabamba,plurinominal,08
+p27,Cochabamba,plurinominal,09
+e03,Oruro,special_indigenous,01
+u29,Oruro,uninominal,01
+u30,Oruro,uninominal,02
+u31,Oruro,uninominal,03
+u32,Oruro,uninominal,04
+p28,Oruro,plurinominal,01
+p29,Oruro,plurinominal,02
+p30,Oruro,plurinominal,03
+p31,Oruro,plurinominal,04
+u33,Potosí,uninominal,01
+u34,Potosí,uninominal,02
+u35,Potosí,uninominal,03
+u36,Potosí,uninominal,04
+u37,Potosí,uninominal,05
+u38,Potosí,uninominal,06
+u39,Potosí,uninominal,07
+p32,Potosí,plurinominal,01
+p33,Potosí,plurinominal,02
+p34,Potosí,plurinominal,03
+p35,Potosí,plurinominal,04
+p36,Potosí,plurinominal,05
+p37,Potosí,plurinominal,06
+e04,Tarija,special_indigenous,01
+u40,Tarija,uninominal,01
+u41,Tarija,uninominal,02
+u42,Tarija,uninominal,03
+u43,Tarija,uninominal,04
+p38,Tarija,plurinominal,01
+p39,Tarija,plurinominal,02
+p40,Tarija,plurinominal,03
+p41,Tarija,plurinominal,04
+e05,Santa Cruz,special_indigenous,01
+u44,Santa Cruz,uninominal,01
+u45,Santa Cruz,uninominal,02
+u46,Santa Cruz,uninominal,03
+u47,Santa Cruz,uninominal,04
+u48,Santa Cruz,uninominal,05
+u49,Santa Cruz,uninominal,06
+u50,Santa Cruz,uninominal,07
+u51,Santa Cruz,uninominal,08
+u52,Santa Cruz,uninominal,09
+u53,Santa Cruz,uninominal,10
+u54,Santa Cruz,uninominal,11
+u55,Santa Cruz,uninominal,12
+u56,Santa Cruz,uninominal,13
+u57,Santa Cruz,uninominal,14
+p42,Santa Cruz,plurinominal,01
+p43,Santa Cruz,plurinominal,02
+p44,Santa Cruz,plurinominal,03
+p45,Santa Cruz,plurinominal,04
+p46,Santa Cruz,plurinominal,05
+p47,Santa Cruz,plurinominal,06
+p48,Santa Cruz,plurinominal,07
+p49,Santa Cruz,plurinominal,08
+p50,Santa Cruz,plurinominal,09
+p51,Santa Cruz,plurinominal,10
+p52,Santa Cruz,plurinominal,11
+p53,Santa Cruz,plurinominal,12
+p54,Santa Cruz,plurinominal,13
+p55,Santa Cruz,plurinominal,14
+e06,Beni,special_indigenous,01
+u58,Beni,uninominal,01
+u59,Beni,uninominal,02
+u60,Beni,uninominal,03
+u61,Beni,uninominal,04
+p56,Beni,plurinominal,01
+p57,Beni,plurinominal,02
+p58,Beni,plurinominal,03
+e07,Pando,special_indigenous,01
+u62,Pando,uninominal,01
+u63,Pando,uninominal,02
+p59,Pando,plurinominal,01
+p60,Pando,plurinominal,02
