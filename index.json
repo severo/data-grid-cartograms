@@ -6,6 +6,11 @@
     },
     {
         "whole": "countries/bo",
+        "parts": "deputy_seats",
+        "name": "2025_elections"
+    },
+    {
+        "whole": "countries/bo",
         "parts": "electoral_districts",
         "name": "2025_elections"
     },
