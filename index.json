@@ -20,6 +20,11 @@
         "name": "2025_elections"
     },
     {
+        "whole": "countries/bo",
+        "parts": "special_indigenous_deputy_seats",
+        "name": "2025_elections"
+    },
+    {
         "whole": "countries/fr",
         "parts": "departments",
         "name": "2016_neil_richards"
