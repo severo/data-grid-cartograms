@@ -1,0 +1,46 @@
+id,name,iso2,iso3
+ALB,Albania,AL,ALB
+ARM,Armenia,AM,ARM
+AUT,Austria,AT,AUT
+AZE,Azerbaijan,AZ,AZE
+BEL,Belgium,BE,BEL
+BGR,Bulgaria,BG,BGR
+BIH,Bosnia and Herzegovina,BA,BIH
+BLR,Belarus,BY,BLR
+CHE,Switzerland,CH,CHE
+CYP,Cyprus,CY,CYP
+CZE,Czech Republic,CZ,CZE
+DEU,Germany,DE,DEU
+DNK,Denmark,DK,DNK
+ESP,Spain,ES,ESP
+EST,Estonia,EE,EST
+FIN,Finland,FI,FIN
+FRA,France,FR,FRA
+GBR,United Kingdom,GB,GBR
+GEO,Georgia,GE,GEO
+GRC,Greece,GR,GRC
+HRV,Croatia,HR,HRV
+HUN,Hungary,HU,HUN
+IRL,Ireland,IE,IRL
+ISL,Iceland,IS,ISL
+ITA,Italy,IT,ITA
+KOS,Kosovo,XK,XKX
+LTU,Lithuania,LT,LTU
+LUX,Luxembourg,LU,LUX
+LVA,Latvia,LV,LVA
+MDA,Moldova,MD,MDA
+MKD,North Macedonia,MK,MKD
+MLT,Malta,MT,MLT
+MNE,Montenegro,ME,MNE
+NLD,Netherlands,NL,NLD
+NOR,Norway,NO,NOR
+POL,Poland,PL,POL
+PRT,Portugal,PT,PRT
+ROU,Romania,RO,ROU
+RUS,Russia,RU,RUS
+SLO,Slovenia,SI,SVN
+SRB,Serbia,RS,SRB
+SVK,Slovakia,SK,SVK
+SWE,Sweden,SE,SWE
+TUR,Turkey,TR,TUR
+UKR,Ukraine,UA,UKR
