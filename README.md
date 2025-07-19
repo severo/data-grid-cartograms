@@ -39,6 +39,10 @@ You want to add the data for a grid cartogram? Open a [pull request](https://git
 
 Other ideas? Open an issue or a pull request and let's discuss!
 
+## Explore the collection
+
+You can browse all grid cartograms contributed so far in this [observable notebook](https://observablehq.com/@mauforonda/grid-cartogram-collection).
+
 ## Read more on grid cartograms
 
 In 2020, I wrote a [review about grid cartograms](https://observablehq.com/@severo/grid-cartograms) on Observable. It contains a good list of grid cartograms for countries, continents and the world, and I discussed the terms and the uses for such a chart.
