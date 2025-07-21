@@ -5,6 +5,11 @@
         "name": "2016_neil_richards"
     },
     {
+        "whole": "continents/europa",
+        "parts": "countries",
+        "name": "2025_eurovision_style"
+    },
+    {
         "whole": "countries/bo",
         "parts": "deputy_seats",
         "name": "2025_elections"
