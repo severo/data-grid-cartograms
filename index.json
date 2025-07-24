@@ -38,5 +38,10 @@
         "whole": "countries/us",
         "parts": "states",
         "name": "2015_propublica"
+    },
+    {
+        "whole": "world",
+        "parts": "countries",
+        "name": "UN_clemsos"
     }
 ]
