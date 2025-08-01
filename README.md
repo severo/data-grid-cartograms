@@ -31,6 +31,33 @@ Where:
 - `ids.csv` contains the mapping between the identifiers in `grid.csv` and the actual names of the parts. The first column contains the identifier, and the second column contains the name. Additional columns can be added for metadata.
 - `README.md` contains a description of the cartogram, including the source, date, and any other relevant information.
 
+The ASCII-art CSV is self-explaining, here is a grid cartogram if the world, by @clemsos:
+
+```csv
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,ISL,   ,   ,   ,DNK,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,NOR,SWE,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,FIN,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,CAN,   ,   ,   ,   ,   ,   ,   ,GBR,   ,   ,NLD,EST,LVA,LTU,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,USA,   ,   ,   ,BHS,   ,   ,   ,IRL,   ,BEL,LUX,DEU,POL,CZE,BLR,SVK,RUS,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,MEX,   ,   ,   ,CUB,HTI,DOM,   ,   ,   ,FRA,CHE,LIE,AUT,BGR,HUN,MDA,UKR,UZB,KAZ,MNG,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,GTM,BLZ,   ,   ,JAM,ATG,KNA,   ,   ,   ,AND,MCO,ITA,SVN,MNE,SRB,ROU,   ,ARM,TKM,KGZ,CHN,PRK,KOR,   ,JPN,   ,   ,   ,   
+   ,   ,   ,SLV,   ,   ,LCA,VCT,DMA,   ,   ,PRT,ESP,   ,SMR,HRV,MKD,BIH,CYP,TUR,GEO,AZE,TJK,NPL,BTN,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,HND,   ,   ,   ,   ,GRD,BRB,   ,   ,MLT,   ,   ,ALB,GRC,   ,   ,SYR,IRQ,IRN,AFG,PAK,BGD,MMR,THA,LAO,   ,   ,   ,   
+   ,   ,   ,NIC,CRI,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,LBN,KWT,   ,   ,IND,   ,   ,KHM,VNM,   ,   ,   ,   
+   ,   ,   ,   ,PAN,   ,   ,   ,   ,   ,   ,   ,   ,MAR,DZA,TUN,LBY,EGY,ISR,JOR,SAU,BHR,   ,   ,LKA,   ,MYS,   ,   ,   ,   ,   
+   ,   ,   ,ECU,COL,VEN,   ,   ,   ,   ,   ,   ,SEN,MRT,MLI,NER,TCD,SDN,ERI,   ,ARE,QAT,   ,MDV,   ,SGP,BRN,   ,PHL,   ,   ,   
+   ,   ,   ,PER,GUY,SUR,TTO,   ,   ,   ,   ,GMB,GIN,BFA,NGA,CAF,SSD,ETH,DJI,   ,YEM,OMN,   ,   ,   ,   ,IDN,PNG,   ,   ,   ,   
+   ,   ,   ,   ,BRA,   ,   ,   ,   ,   ,   ,   ,GNB,SLE,CIV,TGO,CMR,UGA,SOM,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,BOL,   ,   ,   ,   ,   ,   ,   ,LBR,GHA,BEN,COG,COD,KEN,   ,   ,   ,   ,   ,   ,TLS,   ,MHL,KIR,PLW,   ,   ,   
+   ,   ,   ,PRY,URY,   ,   ,   ,   ,   ,   ,   ,CPV,   ,STP,GNQ,RWA,TZA,   ,   ,   ,   ,   ,AUS,   ,   ,TUV,FSM,NRU,   ,   ,   
+   ,   ,   ,   ,ARG,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,GAB,BDI,MWI,   ,   ,COM,   ,   ,   ,NZL,   ,WSM,TON,   ,   ,   ,   
+   ,   ,   ,   ,CHL,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,AGO,ZMB,MOZ,   ,MDG,MUS,   ,   ,   ,   ,   ,FJI,SLB,VUT,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,NAM,BWA,ZWE,   ,   ,SYC,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,ZAF,LSO,SWZ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+```
+
 ## Contribute
 
 You want to signal a grid cartogram should be added to the collection? Please open an [issue](https://github.com/severo/data-grid-cartograms/issues/new?template=propose-a-new-grid-cartogram.md) and paste the reference URL. We will then take care of transcribing it to the ASCII-art data format.
