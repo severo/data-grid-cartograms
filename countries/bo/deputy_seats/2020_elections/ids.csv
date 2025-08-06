@@ -1,0 +1,131 @@
+id,party,department,kind,kind_department_seat,name,constituency
+e02,MAS IPSP (Movimiento Al Socialismo),Beni,Especial,01,Enrique Cunai Cayuba,
+u03,CREEMOS ,Beni,Uninominal,02,Leonardo Fabián Ayala Soria,C-61
+u04,CC (Comunidad Ciudadana) ,Beni,Uninominal,03,Keyla Ortiz Dorado,C-60
+u05,MAS IPSP (Movimiento Al Socialismo),Beni,Uninominal,04,Aleida Joseff Téllez,C-59
+u06,CREEMOS ,Beni,Uninominal,05,Fernando Llapiz Hoentsch,C-58
+p03,MAS IPSP (Movimiento Al Socialismo),Beni,Plurinominal,06,Sarah Vania Crespo Arze,
+p04,CC (Comunidad Ciudadana) ,Beni,Plurinominal,07,Oscar Alberto Balderas Montaño,
+p05,CC (Comunidad Ciudadana) ,Beni,Plurinominal,08,Janira Román Matijasevic,
+u21,MAS IPSP (Movimiento Al Socialismo),Chuquisaca,Uninominal,01,Jorge Yucra Zárate,C-3
+p19,MAS IPSP (Movimiento Al Socialismo),Chuquisaca,Plurinominal,02,Gustavo Vega Piña,
+u22,MAS IPSP (Movimiento Al Socialismo),Chuquisaca,Uninominal,03,Adán Palacios Puma,C-5
+u23,MAS IPSP (Movimiento Al Socialismo),Chuquisaca,Uninominal,04,Lidia Limón Solís,C-4
+u24,CC (Comunidad Ciudadana) ,Chuquisaca,Uninominal,05,Lily Gladys Fernández Vargas,C-2
+u25,CC (Comunidad Ciudadana) ,Chuquisaca,Uninominal,06,Walter Pablo Arizaga Ruiz,C-1
+p20,MAS IPSP (Movimiento Al Socialismo),Chuquisaca,Plurinominal,07,Blanca Magaly López Sandoval,
+p21,CC (Comunidad Ciudadana) ,Chuquisaca,Plurinominal,08,Marlene Fernández Mejías,
+p22,CC (Comunidad Ciudadana) ,Chuquisaca,Plurinominal,09,Erick Marcelo Pedrazas López,
+p23,CC (Comunidad Ciudadana) ,Chuquisaca,Plurinominal,10,Pamela Soraya Alurralde Barea,
+u41,CC (Comunidad Ciudadana) ,Cochabamba,Uninominal,01,Mayra Ingrid Zalles Trigo,C-20
+p39,CC (Comunidad Ciudadana) ,Cochabamba,Plurinominal,02,Toribia Lero Quispe,
+u42,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,03,Rosario García Onofre,C-27
+p40,CC (Comunidad Ciudadana) ,Cochabamba,Plurinominal,04,José Maldonado Gemio,
+u43,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,05,Dora Lizeth Morales Ríos,C-23
+u44,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,06,Pascual Pacífico Choque Gallego,C-28
+u45,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,07,María Cristina Choque Gutiérrez,C-26
+u46,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,08,Héctor Arce Rodríguez,C-25
+u47,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,09,Gualberto Arispe Maita,C-24
+u48,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,10,Olivia Guachalla Yupanqui,C-22
+u49,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Uninominal,11,Santos Mamani Espinoza,C-21
+e05,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Especial,12,Gildo Leodán Hinojosa Soria,
+p41,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Plurinominal,13,Jhonny Pardo Ramírez,
+p42,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Plurinominal,14,Felicia Alejo Hidalgo,
+p43,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Plurinominal,15,José Luis Flores Colquillo,
+p44,MAS IPSP (Movimiento Al Socialismo),Cochabamba,Plurinominal,16,Magaly Lourdes Gómez Aranibar,
+p45,CC (Comunidad Ciudadana) ,Cochabamba,Plurinominal,17,Alejandra Camargo Tanabe,
+p46,CC (Comunidad Ciudadana) ,Cochabamba,Plurinominal,18,Samantha Andrea Kersim Nogales Arispe,
+p47,CC (Comunidad Ciudadana) ,Cochabamba,Plurinominal,19,Saúl Octavio Lara Torrico,
+p48,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,01,Omar Al Yabhat Yujra Santos,
+p49,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,02,Freddy Mamani Laura,
+p50,CC (Comunidad Ciudadana) ,La Paz,Plurinominal,03,Gustavo Adolfo Aliaga Palma,
+u50,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,04,Hernán Isaías Durán Lazo,C-14
+p51,CC (Comunidad Ciudadana) ,La Paz,Plurinominal,05,Walter Villagra Romay,
+u51,CC (Comunidad Ciudadana) ,La Paz,Uninominal,06,Ingvar Ellefsen Dotzauer,C-8
+e06,MAS IPSP (Movimiento Al Socialismo),La Paz,Especial,07,Verónica Challco Tapia,
+u52,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,08,Pasceza Francisca Quispe Mamani,C-19
+u53,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,09,Basilia Rojas Mamani,C-18
+u54,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,10,Gladys Quispe Chura,C-17
+u55,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,11,Andrés Flores Condori,C-16
+u56,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,12,Zulay Mamani Apaza,C-15
+u57,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,13,Felix Mayta Larico,C-13
+u58,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,14,Sabina Hilda Condori Calle,C-12
+u59,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,15,Ignacio Renán Cabezas Veizan,C-11
+u60,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,16,María Alanoca Tinta,C-10
+u61,MAS IPSP (Movimiento Al Socialismo),La Paz,Uninominal,17,Ramiro Venegas Calderón,C-9
+u62,CC (Comunidad Ciudadana) ,La Paz,Uninominal,18,Miguel Antonio Roca Sánchez,C-7
+u63,CC (Comunidad Ciudadana) ,La Paz,Uninominal,19,Alberto Vladimir Astorga Torrez,C-6
+p52,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,20,Griselda Soledad Pérez Alberto,
+p53,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,21,Freddy Velásquez Aparicio,
+p54,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,22,Gloria Magdalena Callizaya Rodríguez,
+p55,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,23,Froilán Mamani Choque,
+p56,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,24,Betty Beatriz Yañiquez Lozano,
+p57,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,25,Freddy López Choque,
+p58,MAS IPSP (Movimiento Al Socialismo),La Paz,Plurinominal,26,Bertha Beatriz Acarapi,
+p59,CC (Comunidad Ciudadana) ,La Paz,Plurinominal,27,Gabriela Verónica Ferrel Parrado,
+p60,CC (Comunidad Ciudadana) ,La Paz,Plurinominal,28,María Elena Pachacute Ticona,
+p61,CC (Comunidad Ciudadana) ,La Paz,Plurinominal,29,Carlos Silvestre Alarcón Mondonio,
+p34,MAS IPSP (Movimiento Al Socialismo),Oruro,Plurinominal,01,Clemente Mamani Ventura,
+u37,MAS IPSP (Movimiento Al Socialismo),Oruro,Uninominal,02,Miriam Martínez Michaga,C-29
+u38,MAS IPSP (Movimiento Al Socialismo),Oruro,Uninominal,03,Quintín Villazón Garnica,C-32
+u39,MAS IPSP (Movimiento Al Socialismo),Oruro,Uninominal,04,Celia Salazar Quispe,C-31
+u40,MAS IPSP (Movimiento Al Socialismo),Oruro,Uninominal,05,Juan José Jauregui Ururi,C-30
+p35,MAS IPSP (Movimiento Al Socialismo),Oruro,Plurinominal,06,Lily Bernabé Colque,
+p36,CC (Comunidad Ciudadana) ,Oruro,Plurinominal,07,Ronald Huanca López,
+p37,CC (Comunidad Ciudadana) ,Oruro,Plurinominal,08,Mariel Carola Peñaloza Lema,
+p38,CC (Comunidad Ciudadana) ,Oruro,Plurinominal,09,Enrique Fernando Urquidi Daza,
+u01,MAS IPSP (Movimiento Al Socialismo) ,Pando,Uninominal,01,María José Rodríguez Gálvez,C-62
+p01,CREEMOS ,Pando,Plurinominal,02,Sergio Maniguary Moura,
+u02,MAS IPSP (Movimiento Al Socialismo) ,Pando,Uninominal,03,Roy Suárez Medina,C-63
+p02,CC (Comunidad Ciudadana) ,Pando,Plurinominal,04,Sebastián Divico Muchairo,
+e01,MAS IPSP (Movimiento Al Socialismo) ,Pando,Especial,05,Tacni Elvis Mendoza Mendoza,
+p28,MAS IPSP (Movimiento Al Socialismo),Potosí,Plurinominal,01,Elsa Alí Ramos,
+u30,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,02,Israel Huaytari Martínez,C-39
+u31,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,03,Gladys Chumacero Vásquez,C-38
+u32,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,04,Higinio Farfán Abán,C-37
+u33,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,05,Adriana Tarifa Condori,C-36
+u34,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,06,Pedro Francisco Coro,C-35
+u35,MAS IPSP (Movimiento Al Socialismo),Potosí,Uninominal,07,Mónica Sofía Torres Campuzano,C-34
+u36,CC (Comunidad Ciudadana) ,Potosí,Uninominal,08,Juan José Torrez Flores,C-33
+p29,MAS IPSP (Movimiento Al Socialismo),Potosí,Plurinominal,09,Celia Nancy Rivera Mamani,
+p30,MAS IPSP (Movimiento Al Socialismo),Potosí,Plurinominal,10,Antonio Colque Gabriel,
+p31,CC (Comunidad Ciudadana) ,Potosí,Plurinominal,11,Juan Pardo Guevara,
+p32,CC (Comunidad Ciudadana) ,Potosí,Plurinominal,12,Marina Morales Cárdenas,
+p33,CC (Comunidad Ciudadana) ,Potosí,Plurinominal,13,José Guillermo Benavides Ramos,
+u07,MAS IPSP (Movimiento Al Socialismo) ,Santa Cruz,Uninominal,01,Deisy Judith Choque Arnez,C-52
+p06,MAS IPSP (Movimiento Al Socialismo) ,Santa Cruz,Plurinominal,02,Jerges Mercado Suárez,
+p07,CREEMOS ,Santa Cruz,Plurinominal,03,Sandra Paz Méndez,
+u08,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Uninominal,04,Patricio Mendoza Chumpe,C-49
+p08,CC (Comunidad Ciudadana) ,Santa Cruz,Plurinominal,05,Laura Luisa Nayar Sosa,
+u09,CREEMOS ,Santa Cruz,Uninominal,06,María René Álvarez Camacho,C-54
+u10,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Uninominal,07,Danny Daniel Rojas Montes De Oca,C-57
+u11,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Uninominal,08,Vicente Condori Rodríguez,C-56
+u12,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Uninominal,09,Hernán Hinojosa Rojas,C-55
+u13,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Uninominal,10,Tania Rosmery Paniagua Mafaile,C-53
+u14,CREEMOS ,Santa Cruz,Uninominal,11,Runy Elvio Callau Monasterio,C-51
+u15,CREEMOS ,Santa Cruz,Uninominal,12,Oscar Charles Michel Flores,C-50
+u16,CREEMOS ,Santa Cruz,Uninominal,13,Omar Jesús Rueda Gutiérrez,C-48
+u17,CREEMOS ,Santa Cruz,Uninominal,14,Rosa Tatiana Añez Carrasco,C-47
+u18,CREEMOS ,Santa Cruz,Uninominal,15,Alba Moira Osinaga Rivero,C-46
+u19,CREEMOS ,Santa Cruz,Uninominal,16,José Carlos Gutiérrez Vargas,C-45
+u20,CREEMOS ,Santa Cruz,Uninominal,17,Walthy Mauricio Egüez Paz,C-44
+p09,CC (Comunidad Ciudadana) ,Santa Cruz,Plurinominal,18,Aldo Raúl Terrazas Rivero,
+p10,CC (Comunidad Ciudadana) ,Santa Cruz,Plurinominal,19,Senaida Rojas Banegas,
+p11,CC (Comunidad Ciudadana) ,Santa Cruz,Plurinominal,20,Daniel Prieto Tomelitch,
+p12,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Plurinominal,21,Anyelo Gerardo Céspedes Miranda,
+p13,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Plurinominal,22,Alina Canaviri Sullcani,
+p14,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Plurinominal,23,Estefanía Morales Laura,
+p15,CREEMOS ,Santa Cruz,Plurinominal,24,Tito Caero Vargas,
+p16,CREEMOS ,Santa Cruz,Plurinominal,25,María Khaline Moreno Cárdenas,
+p17,CREEMOS ,Santa Cruz,Plurinominal,26,Erwin Bazán Gutiérrez,
+p18,CREEMOS ,Santa Cruz,Plurinominal,27,Marioly A. Daisy Morón Osinaga,
+e03,MAS IPSP (Movimiento Al Socialismo),Santa Cruz,Especial,28,Elsa Sánchez Romero,
+u26,CC (Comunidad Ciudadana) ,Tarija,Uninominal,01,Edwin Rosas Urzagaste,C-40
+p24,MAS IPSP (Movimiento Al Socialismo),Tarija,Plurinominal,02,Alexsandra Zenteno Cardozo,
+u27,MAS IPSP (Movimiento Al Socialismo),Tarija,Uninominal,03,Delfor Germán Burgos Aguirre,C-42
+u28,MAS IPSP (Movimiento Al Socialismo),Tarija,Uninominal,04,Lidia Tupa Zelaya,C-43
+u29,CC (Comunidad Ciudadana) ,Tarija,Uninominal,05,Mariela Baldivieso Castillo,C-41
+p25,CC (Comunidad Ciudadana) ,Tarija,Plurinominal,06,José Luis Porcel Marquina,
+p26,CC (Comunidad Ciudadana) ,Tarija,Plurinominal,07,María Elena Ortega,
+e04,MAS IPSP (Movimiento Al Socialismo),Tarija,Especial,08,Darlen Isabel Velasco Torrez,
+p27,MAS IPSP (Movimiento Al Socialismo),Tarija,Plurinominal,09,Juan José Huanca Mamani,
