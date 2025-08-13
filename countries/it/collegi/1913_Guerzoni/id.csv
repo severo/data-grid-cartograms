@@ -1,0 +1,509 @@
+id,collegi,provincia,partito politico 
+001,Abano Bagni,Padova,monarchici
+002,Abbiategrasso,Milano,radicali
+003,Acerenza,Potenza,monarchici
+004,Acerra,Caserta,monarchici
+005,Acireale,Catania,monarchici
+006,Acquaviva delle Fonti,Bari delle Puglie,monarchici
+007,Acqui,Alessandria,radicali
+008,Adria,Rovigo,radicali
+009,Affori,Milano,clericali
+010,Afragola,Napoli,monarchici
+011,Agnone,Campobasso,monarchici
+012,Alba,Cuneo,monarchici
+013,Albano Laziale,Roma,monarchici
+014,Albenga,Genova,monarchici
+015,Alcamo,Trapani,monarchici
+016,Alessandria,Alessandria,socialisti
+017,Alghero,Sassari,monarchici
+018,Altamura,Bari delle Puglie,monarchici
+019,Amalfi,Salerno,monarchici
+020,Anagni,Roma,monarchici
+021,Ancona,Ancona,repubblicani
+022,Andria,Bari delle Puglie,monarchici
+023,Aosta,Torino,monarchici
+024,Appiano,Como,monarchici
+025,Aquila degli Abruzzi,Aquila degli Abruzzi,monarchici
+026,Aragona,Girgenti,monarchici
+027,Arezzo,Arezzo,monarchici
+028,Ariano di Puglia,Avellino,monarchici
+029,Ascoli Piceno,Ascoli Piceno,monarchici
+030,Asti,Alessandria,monarchici
+031,Atessa,Chieti,monarchici
+032,Atri,Teramo,monarchici
+033,Atripalda,Avellino,monarchici
+034,Augusta,Siracusa,monarchici
+035,Avellino,Avellino,radicali
+036,Aversa,Caserta,monarchici
+037,Avezzano,Aquila degli Abruzzi,monarchici
+038,Avigliana,Torino,monarchici
+039,Badia Polesine,Rovigo,socialisti
+040,Bagnara Calabra,Reggio di Calabria,monarchici
+041,Bajano,Avellino,monarchici
+042,Bardolino,Verona,clericali
+043,Barge,Cuneo,monarchici
+044,Bari delle Puglie,Bari delle Puglie,radicali
+045,Bassano,Vicenza,clericali
+046,Belluno,Belluno,radicali
+047,Benevento,Benevento,socialisti
+048,Bergamo,Bergamo,monarchici
+049,Bettola,Piacenza,monarchici
+050,Biandrate,Novara,monarchici
+051,Bibbiena,Arezzo,monarchici
+052,Biella,Novara,socialisti
+053,Bitonto,Bari delle Puglie,monarchici
+054,Bivona,Girgenti,radicali
+055,Bobbio,Pavia,monarchici
+056,Bojano,Campobasso,radicali
+057,Bologna I,Bologna,socialisti
+058,Bologna II,Bologna,socialisti
+059,Bologna III,Bologna,monarchici
+060,Borghetto Lodigiano,Milano,monarchici
+061,Borgo a Mozzano,Lucca,monarchici
+062,Borgomanero,Novara,monarchici
+063,Borgo San Dalmazzo,Cuneo,monarchici
+064,Borgo San Donnino,Parma,socialisti
+065,Borgo San Lorenzo,Firenze,monarchici
+066,Borgotaro,Parma,monarchici
+067,Bozzolo,Mantova,socialisti
+068,Brà,Cuneo,monarchici
+069,Breno,Brescia,clericali
+070,Brescia,Brescia,monarchici
+071,Bricherasio,Torino,radicali
+072,Brienza,Potenza,radicali
+073,Brindisi,Lecce,monarchici
+074,Brivio,Como,monarchici
+075,Bronte,Catania,monarchici
+076,Budrio,Bologna,socialisti
+077,Busto Arsizio,Milano,radicali
+078,Caccamo,Palermo,monarchici
+079,Cagli,Pesaro e Urbino,radicali
+080,Cagliari,Cagliari,monarchici
+081,Cairo Montenotte,Genova,monarchici
+082,Calatafami,Trapani,radicali
+083,Caltagirone,Catania,monarchici
+084,Caltanissetta,Caltanissetta,monarchici
+085,Caluso,Torino,monarchici
+086,Camerino,Macerata,monarchici
+087,Campagna,Salerno,monarchici
+088,Campi Bisenzio,Firenze,socialisti
+089,Campi Salentina,Lecce,monarchici
+090,Campobasso,Campobasso,radicali
+091,Canicattì,Girgenti,socialisti
+092,Cantù,Como,monarchici
+093,Capaccio,Salerno,monarchici
+094,Capannori,Lucca,monarchici
+095,Capriata d’Orba,Alessandria,monarchici
+096,Caprino Bergamasco,Bergamo,monarchici
+097,Capua,Caserta,monarchici
+098,Carmagnola,Torino,monarchici
+099,Carpi,Modena,socialisti
+100,Casale Monferrato,Alessandria,monarchici
+101,Casalmaggiore,Cremona,monarchici
+102,Caserta,Caserta,monarchici
+103,Casoria,Napoli,monarchici
+104,Cassano al Jonio,Cosenza,monarchici
+105,Cassino,Caserta,monarchici
+106,Castelfranco Veneto,Treviso,clericali
+107,Castellammare di Stabia,Napoli,repubblicani
+108,Castellaneta,Lecce,radicali
+109,Castel Maggiore,Bologna,socialisti
+110,Castelnovo ne' Monti,Reggio nell’Emilia,radicali
+111,Castelnuovo di Garfagnana,Massa e Carrara,monarchici
+112,Castel San Giovanni,Piacenza,socialisti
+113,Castelvetrano,Trapani,socialisti
+114,Castiglione delle Stiviere,Mantova,monarchici
+115,Castrogiovanni,Caltanissetta,repubblicani
+116,Castroreale,Messina,monarchici
+117,Castrovillari,Cosenza,repubblicani
+118,Catania I,Catania,repubblicani
+119,Catania II,Catania,socialisti
+120,Catanzaro,Catanzaro,monarchici
+121,Caulonia,Reggio di Calabria,monarchici
+122,Ceccano,Roma,clericali
+123,Cefalù,Palermo,socialisti
+124,Cento,Ferrara,socialisti
+125,Cerignola,Foggia,monarchici
+126,Cerreto Sannita,Benevento,monarchici
+127,Cesena,Forlì,repubblicani
+128,Ceva,Cuneo,clericali
+129,Cherasco,Cuneo,monarchici
+130,Chiaravalle Centrale,Catanzaro,monarchici
+131,Chiari,Brescia,monarchici
+132,Chiaromonte,Potenza,monarchici
+133,Chiavari,Genova,monarchici
+134,Chieti,Chieti,socialisti
+135,Chioggia,Venezia,monarchici
+136,Chivasco,Torino,monarchici
+137,Ciriè,Torino,monarchici
+138,Cittadella,Padova,clericali
+139,Città di Castello,Perugia,radicali
+140,Cittaducale,Aquila degli Abruzzi,monarchici
+141,Cittanova,Reggio di Calabria,socialisti
+142,Città Sant'Angelo,Teramo,radicali
+143,Cividale del Friuli,Udine,monarchici
+144,Civitavecchia,Roma,monarchici
+145,Clusone,Bergamo,clericali
+146,Codogne,Milano,monarchici
+147,Colle di Val d’Elsa,Siena,monarchici
+148,Cologna Veneta,Verona,monarchici
+149,Comacchio,Ferrara,socialisti
+150,Comiso,Siracusa,monarchici
+151,Como,Como,monarchici
+152,Conegliano,Treviso,monarchici
+153,Conversano,Bari delle Puglie,monarchici
+154,Corato,Bari delle Puglie,monarchici
+155,Corleone,Palermo,monarchici
+156,Corleto Perticara,Potenza,radicali
+157,Correggio,Reggio nell’Emilia,monarchici
+158,Corte Olona,Pavia,repubblicani
+159,Cortona,Arezzo,radicali
+160,Cosenza,Cosenza,radicali
+161,Cossato,Novara,socialisti
+162,Cotrone,Catanzaro,monarchici
+163,Crema,Cremona,monarchici
+164,Cremona,Cremona,radicali
+165,Crescentino,Novara,socialisti
+166,Cuggione,Milano,monarchici
+167,Cuneo,Cuneo,monarchici
+168,Cuorgnè,Torino,monarchici
+169,Desio,Milano,monarchici
+170,Domodossola,Novara,monarchici
+171,Dronero,Cuneo,monarchici
+172,Empoli,Firenze,socialisti
+173,Erba Incino,Como,monarchici
+174,Este,Padova,clericali
+175,Fabriano,Ancona,monarchici
+176,Faenza,Ravenna,clericali
+177,Fano,Pesaro e Urbino,monarchici
+178,Feltre,Belluno,monarchici
+179,Fermo,Ascoli Piceno,radicali
+180,Ferrara,Ferrara,radicali
+181,Fiorenzuola d'Arda,Piacenza,monarchici
+182,Firenze I,Firenze,socialisti
+183,Firenze II,Firenze,monarchici
+184,Firenze III,Firenze,socialisti
+185,Firenze IV,Firenze,socialisti
+186,Foggia,Foggia,radicali
+187,Foligno,Perugia,monarchici
+188,Forlì,Forlì,repubblicani
+189,Fossano,Cuneo,monarchici
+190,Francavilla di Sicilia,Messina,radicali
+191,Frosinone,Roma,monarchici
+192,Gaeta,Caserta,monarchici
+193,Gallarate,Milano,monarchici
+194,Gallipoli,Lecce,socialisti
+195,Gavirate,Como,monarchici
+196,Gemona,Udine,monarchici
+197,Genova I,Genova,socialisti
+198,Genova II,Genova,monarchici
+199,Genova III,Genova,monarchici
+200,Gerace Marina,Reggio di Calabria,radicali
+201,Gessopalena,Chieti,monarchici
+202,Giarre,Catania,radicali
+203,Gioia dal Colle,Bari delle Puglie,monarchici
+204,Girventi,Girgenti,clericali
+205,Giulianova,Teramo,monarchici
+206,Gonzaga,Mantova,socialisti
+207,Gorgonzola,Milano,monarchici
+208,Grosseto,Grosseto,socialisti
+209,Guastalla,Reggio nell’Emilia,socialisti
+210,Iglesias,Cagliari,socialisti
+211,Imola,Bologna,socialisti
+212,Iseo,Brescia,monarchici
+213,Isernia,Campobasso,monarchici
+214,Isili,Cagliari,monarchici
+215,Isola della Scala,Verona,socialisti
+216,Ivrea,Torino,radicali
+217,Jesi,Ancona,socialisti
+218,Lacedonia,Avellino,monarchici
+219,Lagonegro,Potenza,monarchici
+220,Lanciano,Chieti,radicali
+221,Langhirano,Parma,clericali
+222,Lanusei,Cagliari,monarchici
+223,Lanzo Torinese,Torino,monarchici
+224,Lari,Pisa,socialisti
+225,Larino,Campobasso,radicali
+226,Lecce,Lecce,radicali
+227,Lecco,Como,radicali
+228,Legnago,Verona,monarchici
+229,Lendinara,Rovigo,socialisti
+230,Leno,Brescia,monarchici
+231,Levanto,Genova,monarchici
+232,Licata,Girgenti,monarchici
+233,Livorno I,Livorno,monarchici
+234,Livorno II,Livorno,monarchici
+235,Lodi,Milano,monarchici
+236,Lonato,Brescia,monarchici
+237,Lonigo,Vicenza,radicali
+238,Lucca,Lucca,monarchici
+239,Lucera,Foggia,monarchici
+240,Lugo,Ravenna,monarchici
+241,Macerata,Macerata,monarchici
+242,Macomer,Cagliari,monarchici
+243,Maglie,Lecce,monarchici
+244,Manduria,Lecce,monarchici
+245,Manfredonia,Foggia,monarchici
+246,Mantova,Mantova,radicali
+247,Marostica,Vicenza,monarchici
+248,Marsala,Trapani,radicali
+249,Martinengo,Bergamo,clericali
+250,Massa,Massa e Carrara,repubblicani
+251,Matera,Potenza,radicali
+252,Melegnano,Milano,monarchici
+253,Melfi,Potenza,monarchici
+254,Melito di Porto Salvo,Reggio di Calabria,monarchici
+255,Menaggio,Como,monarchici
+256,Mercato San Severino,Salerno,monarchici
+257,Messina I,Messina,socialisti
+258,Messina II,Messina,monarchici
+259,Milano I,Milano,monarchici
+260,Milano II,Milano,radicali
+261,Milano III,Milano,socialisti
+262,Milano IV,Milano,radicali
+263,Milano V,Milano,socialisti
+264,Milano VI,Milano,socialisti
+265,Milazzo,Messina,monarchici
+266,Militello in Val di Catania,Catania,monarchici
+267,Minervino Murge,Bari delle Puglie,radicali
+268,Mirabella Eclano,Avellino,clericali
+269,Mirandola,Modena,socialisti
+270,Mirano,Venezia,monarchici
+271,Mistretta,Messina,monarchici
+272,Modena,Modena,radicali
+273,Modica,Siracusa,monarchici
+274,Modugno,Bari delle Puglie,monarchici
+275,Molfetta,Bari delle Puglie,repubblicani
+276,Mondovi,Cuneo,monarchici
+277,Monopoli,Bari delle Puglie,monarchici
+278,Monreale,Palermo,monarchici
+279,Montagnana,Padova,monarchici
+280,Montalcino,Siena,socialisti
+281,Montebelluna,Treviso,monarchici
+282,Montechio Emilia,Reggio nell’Emilia,socialisti
+283,Montecorvino Rovella,Salerno,radicali
+284,Monteflascone,Roma,monarchici
+285,Montegiorgio,Ascoli Piceno,monarchici
+286,Monteleone di Calabria,Catanzaro,radicali
+287,Montepulciano,Siena,monarchici
+288,Montesarchio,Benevento,monarchici
+289,Montevarchi,Arezzo,monarchici
+290,Monza,Milano,clericali
+291,Mortara,Pavia,socialisti
+292,Muro Lucano,Potenza,radicali
+293,Napoli I,Napoli,monarchici
+294,Napoli II,Napoli,monarchici
+295,Napoli III,Napoli,monarchici
+296,Napoli IV,Napoli,monarchici
+297,Napoli V,Napoli,socialisti
+298,Napoli VI,Napoli,socialisti
+299,Napoli VII,Napoli,radicali
+300,Napoli VIII,Napoli,socialisti
+301,Napoli IX,Napoli,monarchici
+302,Napoli X,Napoli,socialisti
+303,Napoli XI,Napoli,clericali
+304,Napoli XII,Napoli,monarchici
+305,Naso,Messina,radicali
+306,Nicastro,Catanzaro,monarchici
+307,Nicosia,Catania,radicali
+308,Nizza Monferrato,Alessandria,monarchici
+309,Nocera Inferioro,Salerno,monarchici
+310,Nola,Caserta,monarchici
+311,Noto,Siracusa,monarchici
+312,Novara,Novara,radicali
+313,Novi Ligure,Alessandria,monarchici
+314,Nuoro,Sassari,radicali
+315,Oderzo,Treviso,monarchici
+316,Oleggio,Novara,socialisti
+317,Oneglia,Porto Maurizio,monarchici
+318,Oristano,Cagliari,radicali
+319,Ortona,Chieti,monarchici
+320,Orvieto,Perugia,monarchici
+321,Osimo,Ancona,clericali
+322,Ostiglia,Mantova,socialisti
+323,Ostuni,Lecce,monarchici
+324,Oviglio,Alessandria,socialisti
+325,Ozieri,Sassari,monarchici
+326,Padova,Padova,radicali
+327,Palata,Campobasso,monarchici
+328,Palermo I,Palermo,monarchici
+329,Palermo II,Palermo,monarchici
+330,Palermo III,Palermo,radicali
+331,Palermo IV,Palermo,socialisti
+332,Pallanza,Novara,socialisti
+333,Palmanova,Udine,monarchici
+334,Palmi,Reggio di Calabria,monarchici
+335,Paola,Cosenza,monarchici
+336,Parma I,Parma,socialisti
+337,Parma II,Parma,socialisti
+338,Partinico,Palermo,monarchici
+339,Paterno,Catania,socialisti
+340,Patti,Messina,monarchici
+341,Pavia,Pavia,radicali
+342,Pavulo nel Frignano,Modena,monarchici
+343,Penne,Teramo,monarchici
+344,Persiceto,Bologna,socialisti
+345,Perugia I,Perugia,monarchici
+346,Perugia II,Perugia,monarchici
+347,Pesaro,Pesaro e Urbino,monarchici
+348,Pescarolo ed Uniti,Cremona,socialisti
+349,Pescia,Lucca,monarchici
+350,Pescina,Aquila degli Abruzzi,radicali
+351,Petralia Sottana,Palermo,monarchici
+352,Piacenza,Piacenza,monarchici
+353,Piazza Armerina,Caltanissetta,monarchici
+354,Piedimonte d’Alife,Caserta,monarchici
+355,Pietrasanta,Lucca,monarchici
+356,Pieve di Cadore,Belluno,radicali
+357,Pinerolo,Torino,monarchici
+358,Piove di Saccoo,Padova,monarchici
+359,Pisa,Pisa,monarchici
+360,Pistoja I,Firenze,monarchici
+361,Pistoja II,Firenze,monarchici
+362,Poggio Mirteto,Perugia,radicali
+363,Pontassieve,Firenze,monarchici
+364,Pontecorvo,Caserta,monarchici
+365,Pontedecimo,Genova,clericali
+366,Pontedera,Pisa,monarchici
+367,Pontremoli,Massa e Carrara,monarchici
+368,Popoli,Aquila degli Abruzzi,monarchici
+369,Pordenone,Udine,monarchici
+370,Portogruaro,Venezia,clericali
+371,Portomaggiore,Ferrara,socialisti
+372,Porto Maurizio,Porto Maurizio,monarchici
+373,Potenza,Potenza,monarchici
+374,Pozzuoli,Napoli,monarchici
+375,Prato in Toscana,Firenze,radicali
+376,Prizzi,Palermo,monarchici
+377,Ragusa,Siracusa,monarchici
+378,Rapallo,Genova,monarchici
+379,Ravenna I,Ravenna,repubblicani
+380,Ravenna II,Ravenna,repubblicani
+381,Recanati,Macerata,monarchici
+382,Recco,Genova,monarchici
+383,Regalbuto,Catania,radicali
+384,Reggio di Calabria,Reggio di Calabria,monarchici
+385,Reggio nell`Emilia,Reggio nell’Emilia,socialisti
+386,Rhò,Milano,clericali
+387,Riccia,Campobasso,radicali
+388,Rieti,Perugia,monarchici
+389,Rimini,Forlì,monarchici
+390,Rocca San Casciano,Firenze,monarchici
+391,Rogliano,Cosenza,radicali
+392,Roma I,Roma,monarchici
+393,Roma II,Roma,socialisti
+394,Roma III,Roma,monarchici
+395,Roma IV,Roma,monarchici
+396,Roma V,Roma,repubblicani
+397,Rossano,Cosenza,monarchici
+398,Rovigo,Rovigo,monarchici
+399,Sala Consilina,Salerno,monarchici
+400,Salerno,Salerno,monarchici
+401,Salò,Brescia,monarchici
+402,Saluzzo,Cuneo,monarchici
+403,San Bartolomeo in Galdo,Benevento,monarchici
+404,San Benedetto del Tronto,Ascoli Piceno,monarchici
+405,San Biagio di Callalta,Treviso,clericali
+406,San Casciano in Val di Pesa,Firenze,monarchici
+407,San Daniele del Friuli,Udine,monarchici
+408,San Demetrio ne`Vestini,Aquila degli Abruzzi,monarchici
+409,San Miniato,Firenze,monarchici
+410,Sannazzaro de`Burgondi,Pavia,socialisti
+411,Sannicandro Garganico,Foggia,radicali
+412,San Pier d’Arena,Genova,socialisti
+413,San Remo,Porto Maurizio,socialisti
+414,San Severino Marche,Macerata,monarchici
+415,San Severo,Foggia,radicali
+416,Santa Maria Capua Vetere,Caserta,monarchici
+417,Sant`Angelo de`Lombardi,Avellino,monarchici
+418,Santarcangelo di Romagna,Forlì,monarchici
+419,Santhià,Novara,socialisti
+420,San Vito al Tagliamento,Udine,monarchici
+421,Sassari,Sassari,monarchici
+422,Sassuolo,Modena,radicali
+423,Savigliano,Cuneo,radicali
+424,Savona,Genova,monarchici
+425,Scansano,Grosseto,monarchici
+426,Schio,Vicenza,monarchici
+427,Sciacca,Girgenti,monarchici
+428,Senigallia,Ancona,clericali
+429,Serradifalco,Caltanissetta,monarchici
+430,Serramanna,Cagliari,monarchici
+431,Serra San Bruno,Catanzaro,monarchici
+432,Serrastretta,Catanzaro,monarchici
+433,Sessa Aurunca,Caserta,monarchici
+434,Siena,Siena,socialisti
+435,Siracusa,Siracusa,monarchici
+436,Sondrio,Sondrio,radicali
+437,Sora,Caserta,monarchici
+438,Soresina,Cremona,clericali
+439,Spezia,Genova,radicali
+440,Spezzano Grande,Cosenza,monarchici
+441,Spilimbergo,Udine,clericali
+442,Spoleto,Perugia,monarchici
+443,Stradella,Pavia,socialisti
+444,Subiaco,Roma,monarchici
+445,Sulmona,Aquila degli Abruzzi,monarchici
+446,Susa,Torino,monarchici
+447,Taranto,Lecce,monarchici
+448,Teano,Caserta,monarchici
+449,Tempio Pausania,Sassari,radicali
+450,Teramo,Teramo,socialisti
+451,Termini Imerese,Palermo,monarchici
+452,Terni,Perugia,repubblicani
+453,Terranova di Sicilia,Caltanissetta,radicali
+454,Thiene,Vicenza,clericali
+455,Tirano,Sondrio,radicali
+456,Tivoli,Roma,monarchici
+457,Todi,Perugia,monarchici
+458,Tolmezzo,Udine,monarchici
+459,Torchiara,Salerno,monarchici
+460,Torino I,Torino,monarchici
+461,Torino II,Torino,socialisti
+462,Torino III,Torino,socialisti
+463,Torino IV,Torino,socialisti
+464,Torino V,Torino,monarchici
+465,Torre Annunziata,Napoli,socialisti
+466,Tortona,Alessandria,monarchici
+467,Trapani,Trapani,monarchici
+468,Tregnago,Verona,monarchici
+469,Trescore Balneario,Bergamo,monarchici
+470,Treviglio,Bergamo,clericali
+471,Treviso,Treviso,monarchici
+472,Tricarico,Potenza,monarchici
+473,Tricase,Lecce,monarchici
+474,Tropea,Catanzaro,monarchici
+475,Udine,Udine,radicali
+476,Urbino,Pesaro e Urbino,repubblicani
+477,Valdagno,Vicenza,monarchici
+478,Valenza,Alessandria,monarchici
+479,Vallo della Lucania,Salerno,monarchici
+480,Varallo,Novara,monarchici
+481,Varese,Como,radicali
+482,Vasto,Chieti,monarchici
+483,Velletri,Roma,radicali
+484,Venezia I,Venezia,socialisti
+485,Venezia II,Venezia,monarchici
+486,Venezia III,Venezia,monarchici
+487,Verbicaro,Cosenza,radicali
+488,Vercelli,Novara,socialisti
+489,Vergato,Bologna,monarchici
+490,Verolanuova,Brescia,clericali
+491,Verona I,Verona,socialisti
+492,Verona II,Verona,monarchici
+493,Verrès,Torino,clericali
+494,Vicenza,Vicenza,monarchici
+495,Vicopisano,Pisa,repubblicani
+496,Vigevano,Pavia,socialisti
+497,Vignale,Alessandria,socialisti
+498,Vigone,Torino,monarchici
+499,Vigonza,Padova,clericali
+500,Villadeati,Alessandria,monarchici
+501,Villanuova d’Asti,Alessandria,clericali
+502,Vimercate,Milano,monarchici
+503,Viterbo,Roma,monarchici
+504,Vittorio,Treviso,monarchici
+505,Voghera,Pavia,monarchici
+506,Volterra,Pisa,monarchici
+507,Voltri,Genova,monarchici
+508,Zogno,Bergamo,monarchici
