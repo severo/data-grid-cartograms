@@ -12,7 +12,7 @@ The 5 main political parties are listed below :
 - socialisti (socialists)
 - repubblicani (republicans)
 
-Each district has a result corresponding of one of the party listed above.
+Each district has a result corresponding to one of the parties listed above.
 
 ## Source
 
@@ -24,8 +24,8 @@ References :
 ## Date
 
 Cartogram creation : 11/08/2025
-Reference 1 : 1913
-Reference 2 : 1914
+Reference 1 (map): 1913
+Reference 2 (district names): 1918
 
 ## Coverage
 
@@ -41,5 +41,3 @@ The 508 voting districts composing Italy in 1913 and their results.
 ## Notes
 
 In the original map districts were clustered by "provincia", see the id.csv file.
-
-## Usage
