@@ -24,8 +24,8 @@ References :
 ## Date
 
 Cartogram creation : 11/08/2025
-Reference 1 : 1913
-Reference 2 : 1914
+Reference 1 (map): 1913
+Reference 2 (district names): 1918
 
 ## Coverage
 
