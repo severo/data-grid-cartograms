@@ -1,6 +1,6 @@
 # data-grid-cartograms
 
-A curated collection of grid cartograms, in a machine readable format.
+A curated collection of grid cartograms, in a machine-readable format.
 
 > A grid cartogram is a representation barely similar to a map, that distorts the forms and areas, and assigns to every subdivision one and only one unit of a grid. They are also referred as grid map, mosaic cartogram, pseudo-Demers cartogram, square cartograph maps, geofacets, geogrid, tile grid map, or tile map. For example, the following map represents every state of the United States by exactly one square in a rectangular grid:
 
@@ -75,3 +75,16 @@ You can browse all grid cartograms contributed so far in this [observable notebo
 In 2020, I wrote a [review about grid cartograms](https://observablehq.com/@severo/grid-cartograms) on Observable. It contains a good list of grid cartograms for countries, continents and the world, and I discussed the terms and the uses for such a chart.
 
 I also wrote some other notebooks around grid cartograms: utilities to load, convert and display the data, intents to automatically create grid cartograms, and tools to compare the accuracy of grid cartograms. You can check them ut in the [Grid cartograms Observable's collection](https://observablehq.com/collection/@severo/grid-maps).
+
+## Tools
+
+Some visualization and mapping tools that could work well with the grid cartograms in this repository:
+
+- https://eurostat.github.io/gridviz/: JavaScript library for visualizing gridded data
+
+Open a PR/issue to propose other tools!
+
+## Related projects
+
+- https://github.com/hafen/grid-designer/ / https://github.com/hafen/geofacet: Geo Grid Designer publishes dozens of grid cartograms in tidy CSV files.
+
