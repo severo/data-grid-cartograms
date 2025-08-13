@@ -12,7 +12,7 @@ The 5 main political parties are listed below :
 - socialisti (socialists)
 - repubblicani (republicans)
 
-Each district has a result corresponding of one of the party listed above.
+Each district has a result corresponding to one of the parties listed above.
 
 ## Source
 
