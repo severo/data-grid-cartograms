@@ -31,7 +31,7 @@ Where:
 - `ids.csv` contains the mapping between the identifiers in `grid.csv` and the actual names of the parts. The first column contains the identifier, and the second column contains the name. Additional columns can be added for metadata.
 - `README.md` contains a description of the cartogram, including the source, date, and any other relevant information.
 
-The ASCII-art CSV is self-explaining, here is a grid cartogram if the world, by @clemsos:
+The ASCII-art CSV is self-explaining, here is a grid cartogram of the world, by @clemsos:
 
 ```csv
    ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
