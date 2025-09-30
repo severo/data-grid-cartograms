@@ -81,6 +81,7 @@ I also wrote some other notebooks around grid cartograms: utilities to load, con
 Some visualization and mapping tools that could work well with the grid cartograms in this repository:
 
 - https://eurostat.github.io/gridviz/: JavaScript library for visualizing gridded data
+- https://yanouski.com/work/graphing-belarus/tile-grid-map/process/: Making-of the tile grid map layout of Belarus, using d3-force.
 
 Open a PR/issue to propose other tools!
 
