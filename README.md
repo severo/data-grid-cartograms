@@ -88,4 +88,4 @@ Open a PR/issue to propose other tools!
 ## Related projects
 
 - https://github.com/hafen/grid-designer/ / https://github.com/hafen/geofacet: Geo Grid Designer publishes dozens of grid cartograms in tidy CSV files.
-
+- https://github.com/sebastian-meier/d3.geo2rect: Morphing geojson polygons into rectangles.
