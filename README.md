@@ -89,3 +89,5 @@ Open a PR/issue to propose other tools!
 
 - https://github.com/hafen/grid-designer/ / https://github.com/hafen/geofacet: Geo Grid Designer publishes dozens of grid cartograms in tidy CSV files.
 - https://github.com/sebastian-meier/d3.geo2rect: Morphing geojson polygons into rectangles.
+- https://www.roger-beecham.com/gridmappr/: Automates the process of generating grid maps.
+- https://www.gicentre.net/smwg: Meulemans, W., Dykes, J., Slingsby, A., Turkay, C. & Wood, J. (2017). Small Multiples with Gaps, IEEE Transactions on Visualization and Computer Graphics.
