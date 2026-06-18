@@ -91,3 +91,4 @@ Open a PR/issue to propose other tools!
 - https://github.com/sebastian-meier/d3.geo2rect: Morphing geojson polygons into rectangles.
 - https://www.roger-beecham.com/gridmappr/: Automates the process of generating grid maps.
 - https://www.gicentre.net/smwg: Meulemans, W., Dykes, J., Slingsby, A., Turkay, C. & Wood, J. (2017). Small Multiples with Gaps, IEEE Transactions on Visualization and Computer Graphics.
+- https://github.com/databites-tech/popgrid: Block cartograms for Python, land area and population, clearly explained
